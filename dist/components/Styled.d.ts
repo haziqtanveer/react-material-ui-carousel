@@ -1,0 +1,17 @@
+export declare const StyledRoot: import("@emotion/styled").StyledComponent<import("@mui/system").MUIStyledCommonProps<import("@mui/material").Theme>, import("react").DetailedHTMLProps<import("react").HTMLAttributes<HTMLDivElement>, HTMLDivElement>, {}>;
+export declare const StyledItem: import("@emotion/styled").StyledComponent<import("@mui/system").MUIStyledCommonProps<import("@mui/material").Theme>, import("react").DetailedHTMLProps<import("react").HTMLAttributes<HTMLDivElement>, HTMLDivElement>, {}>;
+export declare const StyledItemWrapper: import("@emotion/styled").StyledComponent<import("@mui/system").MUIStyledCommonProps<import("@mui/material").Theme>, import("react").DetailedHTMLProps<import("react").HTMLAttributes<HTMLDivElement>, HTMLDivElement>, {}>;
+export declare const StyledIndicators: import("@emotion/styled").StyledComponent<import("@mui/system").MUIStyledCommonProps<import("@mui/material").Theme>, import("react").DetailedHTMLProps<import("react").HTMLAttributes<HTMLDivElement>, HTMLDivElement>, {}>;
+export declare const StyledFiberManualRecordIcon: import("@emotion/styled").StyledComponent<import("@mui/material").SvgIconOwnProps & import("@mui/material/OverridableComponent").CommonProps & Omit<import("react").SVGProps<SVGSVGElement>, "style" | "color" | "fontSize" | "shapeRendering" | "className" | "classes" | "children" | "htmlColor" | "inheritViewBox" | "sx" | "titleAccess" | "viewBox"> & import("@mui/system").MUIStyledCommonProps<import("@mui/material").Theme>, {}, {}>;
+export declare const StyledIndicatorIconButton: import("@emotion/styled").StyledComponent<import("@mui/material").IconButtonOwnProps & Omit<import("@mui/material").ButtonBaseOwnProps, "classes"> & import("@mui/material/OverridableComponent").CommonProps & Omit<import("react").DetailedHTMLProps<import("react").ButtonHTMLAttributes<HTMLButtonElement>, HTMLButtonElement>, "style" | "color" | "className" | "classes" | "children" | "sx" | "tabIndex" | "action" | "centerRipple" | "disabled" | "disableRipple" | "disableTouchRipple" | "focusRipple" | "focusVisibleClassName" | "LinkComponent" | "onFocusVisible" | "TouchRippleProps" | "touchRippleRef" | "disableFocusRipple" | "edge" | "loading" | "loadingIndicator" | "size"> & import("@mui/system").MUIStyledCommonProps<import("@mui/material").Theme> & {
+    $active: boolean;
+}, {}, {}>;
+export declare const StyledIconButton: import("@emotion/styled").StyledComponent<import("@mui/material").IconButtonOwnProps & Omit<import("@mui/material").ButtonBaseOwnProps, "classes"> & import("@mui/material/OverridableComponent").CommonProps & Omit<import("react").DetailedHTMLProps<import("react").ButtonHTMLAttributes<HTMLButtonElement>, HTMLButtonElement>, "style" | "color" | "className" | "classes" | "children" | "sx" | "tabIndex" | "action" | "centerRipple" | "disabled" | "disableRipple" | "disableTouchRipple" | "focusRipple" | "focusVisibleClassName" | "LinkComponent" | "onFocusVisible" | "TouchRippleProps" | "touchRippleRef" | "disableFocusRipple" | "edge" | "loading" | "loadingIndicator" | "size"> & import("@mui/system").MUIStyledCommonProps<import("@mui/material").Theme> & {
+    $alwaysVisible: boolean;
+    $fullHeightHover: boolean;
+}, {}, {}>;
+export declare const StyledButtonWrapper: import("@emotion/styled").StyledComponent<import("@mui/system").MUIStyledCommonProps<import("@mui/material").Theme> & {
+    $next: boolean;
+    $prev: boolean;
+    $fullHeightHover: boolean;
+}, import("react").DetailedHTMLProps<import("react").HTMLAttributes<HTMLDivElement>, HTMLDivElement>, {}>;

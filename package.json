@@ -28,6 +28,10 @@
             "stage-2"
         ]
     },
+    "overrides": {
+  "typescript": "^5.8.3"
+},
+
     "scripts": {
         "build": "npx rimraf dist && npm run build:cjs",
         "build:cjs": "tsc --module commonjs --outDir dist",
